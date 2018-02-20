@@ -5,5 +5,5 @@ MAINTAINER Ana Trisovic "ana.trisovic@cern.ch"
 WORKDIR "/workspace"
 
 COPY scripts/* /workspace/
-COPY runbash.sh /workspace/
+COPY bashrun.sh /workspace/
 
